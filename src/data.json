@@ -1,62 +1,58 @@
 {
   "greeting": {
     "title": "김민경 \uD83D\uDC8D 박하규\n결혼합니다!",
-    "message": "저희 결혼합니다.\n\n서로에게 알맞은 온도로 따뜻하던 우리.\n부부로서 첫걸음을 내딛는 그 설렘의 순간에\n소중한 분들을 초대합니다.",
+    "message": "부부로서 첫걸음을 내딛는 소중한 시간에\n소중한 분들을 초대합니다 !",
     "host": {
       "groom": {
-        "name": "세모",
+        "name": "하규",
         "relation": "아들",
         "parents": [
           {
             "relation": "아버지",
-            "name": "장아빠"
+            "name": "박두원"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "김명숙"
           }
         ]
       },
       "bride": {
-        "name": "네모",
+        "name": "민경",
         "relation": "딸",
         "parents": [
           {
             "relation": "아버지",
-            "name": "황아빠"
-          },
-          {
-            "relation": "어머니",
-            "name": "이엄마"
+            "name": "김성택"
           }
         ]
       }
     },
-    "eventDetail": "2025년 6월 20일 (토) 14:00\n아펠가모 공덕 라로브홀"
+    "eventDetail": "2025년 6월 28일 (토) 12:30\n지타워 컨벤션"
   },
   "hostInfo": [
     {
       "host": "신랑측",
       "accountInfo": [
         {
-          "name": "장세모",
+          "name": "박하규",
           "relation": "신랑",
-          "bank": "카카오뱅크",
-          "account": "1234-56-789012",
+          "bank": "기업",
+          "account": "010-5609-5468",
           "kakaopayAccount": "",
           "tossAccount": ""
         },
         {
-          "name": "장아빠",
+          "name": "박두원",
           "relation": "아버지",
-          "bank": "농협",
-          "account": "123-45-678901"
+          "bank": "기업",
+          "account": "076-107174-01-014"
         },
         {
-          "name": "이엄마",
+          "name": "김명숙",
           "relation": "어머니",
-          "bank": "농협",
-          "account": "123-45-678901"
+          "bank": "기업",
+          "account": "010-4504-5468"
         }
       ]
     },
@@ -64,44 +60,42 @@
       "host": "신부측",
       "accountInfo": [
         {
-          "name": "황네모",
+          "name": "김민경",
           "relation": "신부",
-          "bank": "토스뱅크",
-          "account": "1234-5678-9012",
+          "bank": "기업",
+          "account": "010-5542-5342",
           "kakaopayAccount": "",
           "tossAccount": ""
         },
         {
-          "name": "황아빠",
+          "name": "김성택",
           "relation": "아버지",
-          "bank": "농협",
-          "account": "123-45-678901"
-        },
-        {
-          "name": "이엄마",
-          "relation": "어머니",
-          "bank": "농협",
-          "account": "123-45-678901"
+          "bank": "국민",
+          "account": "493601-01-101574"
         }
       ]
     }
   ],
   "mapInfo": {
-    "address1": "아펠가모 공덕 라로브홀",
-    "address2": "서울 마포구 마포대로 92\n효성해링턴스퀘어 B동 7층\n02-2197-0230",
-    "naverMap": "https://map.naver.com/p/directions/-/14132311.1099497,4514956.9078363,%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95,1929913788,PLACE_POI/-/transit?c=15.00,0,0,0,dh",
-    "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,489503,1123003&rt1=&rt2=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%EC%A0%90&rtIds=,630786038",
-    "lat": 37.54222,
-    "lon": 126.952708
+    "address1": "지타워 컨벤션",
+    "address2": "서울 구로구 디지털로 26길 38\n02-432-9000",
+    "naverMap": "https://map.naver.com/p/directions/-/14125930.2990014,4506168.2327401,%EC%A7%80%ED%83%80%EC%9B%8C%20%EC%BB%A8%EB%B2%A4%EC%85%98,1090437805,PLACE_POI/-/transit?c=16.18,0,0,0,dh",
+    "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,476864.99999999837,1105710&rt1=&rt2=%EC%A7%80%ED%83%80%EC%9B%8C%EC%BB%A8%EB%B2%A4%EC%85%98&rtIds=,197749949",
+    "lat": 37.479581,
+    "lon": 126.895544
   },
   "locationInfo": [
     {
-      "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 5·6호선 공덕역 7번 출구 (도보 2분)\n\uD83D\uDC49\uD83C\uDFFB 경의·중앙선, 공항철도 공덕역 10번 출구 (도보 30초)"
+      "title": "지하철",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 2호선 구로디지털단지역 4번 출구\n(100m 직진 후 셔틀버스 탑승)\n\uD83D\uDC49\uD83C\uDFFB 1·7호선 가산디지털단지역 4번 출구\n(출구 바로 앞 셔틀버스 탑승)"
     },
     {
-      "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 3-5층 2시간 무료주차\n(안내데스크에서 주차권 수령)"
+      "title": "버스",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 지선: 5536, 5615, 5616\n마을버스: 금천07"
+    },
+    {
+      "title": "주차안내",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 네비게이션 \"지타워몰, 지타워 주차장\" 검색\n(동시 1,400대 주차 가능/2시간 무료 주차)"
     }
   ],
   "emojis": [
