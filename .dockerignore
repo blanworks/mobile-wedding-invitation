@@ -1,0 +1,8 @@
+*.iml
+.gradle
+.idea
+.kotlin
+deploy
+build
+*/build
+node_modules
