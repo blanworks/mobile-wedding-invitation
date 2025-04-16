@@ -1,5 +1,5 @@
 # Stage 1: Build React app (optional if you're not building in this container)
-FROM node:18-alpine as builder
+FROM node:18-alpine AS builder
 WORKDIR /app
 COPY . .
 RUN npm install
