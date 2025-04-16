@@ -2,6 +2,7 @@ import styled from '@emotion/styled';
 
 export const Heading1 = styled.p`
   font-family: Apple SD Gothic Neo, serif;
+  font-weight: 700;
   font-size: 1.5rem;
   margin: 10px;
   color: #3cb371;

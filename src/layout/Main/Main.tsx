@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 import data from 'data.json';
-import mainImg from '@/assets/images/05.jpg'
+import mainImg from '@/assets/images/IMG_0635.jpg'
 
 const Main = () => {
   const { greeting } = data;
@@ -16,7 +16,7 @@ const Main = () => {
 export default Main;
 
 const MainImg = styled.img`
-  border-radius: 200px 200px 0 0;
+  //border-radius: 200px 200px 0 0;
   width: 90%;
   max-width: 450px;
   padding-top: 20px;
